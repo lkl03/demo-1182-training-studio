@@ -1,2 +1,7 @@
-# demo-1182-training-studio
-Demo web para 1182 Training Studio — diseñada por eterlab.
+# 1182 Training Studio
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
